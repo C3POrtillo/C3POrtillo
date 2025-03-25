@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! 👋
 
-<!--
-**C3POrtillo/C3POrtillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! My name is Cam and I'm a Frontend Developer.
+* 🛠️ Projects:
+  * **🐺 Yaphalla** - Cofounder, Lead Website Developer, Lead Designer
+    * ✨ React, Typescript, Next.js, Vercel, Tailwind ✨
+    * 🖼️ Create infographics and guides alongside other volunteers 🖼️
+    * [🌐 `Site` 🌐](https://yaphalla.com)
+    * [💬 `Discord` 💬](https://discord.gg/yaphalla)
 
-Here are some ideas to get you started:
+* 📧 Contact:
+  * **Discord: `@camil.o`** 
+  * **[Email: `cam@ortillo.cam`](mailto:cam@ortillo.cam)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
